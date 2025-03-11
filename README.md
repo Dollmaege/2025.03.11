@@ -76,6 +76,11 @@ aws,
 github 페이지
 깃허브에서는 모료로 웹페이지를 호스팅 할 수 있는 서비스를 제공한다.
 
+레포지토리로 이동 -> settings-> 왼쪽메뉴에 pages
+->vranch에 master or main 설정
+주의해야 할 점
+root 폴더에 index.html이 존재해야 한다. 
+
 
 
 
